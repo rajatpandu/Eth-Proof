@@ -82,9 +82,6 @@ contract ImprovedToken {
 
 By working with this code on "https://remix.ethereum.org/," an easy-to-use web platform designed specifically for developing and testing Ethereum smart contracts, we may efficiently compile, deploy, and administer the ImprovedToken contract.
 
-
-Moreover for detailed explantion, here's an explanatory video regarding the code, "link"
-kindly refer to the following link for the detailed explantion. 
-## THANK YOU!
+ THANK YOU!
 
 
